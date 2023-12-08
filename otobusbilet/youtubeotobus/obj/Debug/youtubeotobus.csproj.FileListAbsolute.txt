@@ -1,0 +1,12 @@
+C:\Users\bensu\source\repos\youtubeotobus\youtubeotobus\bin\Debug\youtubeotobus.exe.config
+C:\Users\bensu\source\repos\youtubeotobus\youtubeotobus\bin\Debug\youtubeotobus.exe
+C:\Users\bensu\source\repos\youtubeotobus\youtubeotobus\bin\Debug\youtubeotobus.pdb
+C:\Users\bensu\source\repos\youtubeotobus\youtubeotobus\obj\Debug\youtubeotobus.csproj.AssemblyReference.cache
+C:\Users\bensu\source\repos\youtubeotobus\youtubeotobus\obj\Debug\youtubeotobus.csproj.SuggestedBindingRedirects.cache
+C:\Users\bensu\source\repos\youtubeotobus\youtubeotobus\obj\Debug\youtubeotobus.Form1.resources
+C:\Users\bensu\source\repos\youtubeotobus\youtubeotobus\obj\Debug\youtubeotobus.KayıtFormu.resources
+C:\Users\bensu\source\repos\youtubeotobus\youtubeotobus\obj\Debug\youtubeotobus.Properties.Resources.resources
+C:\Users\bensu\source\repos\youtubeotobus\youtubeotobus\obj\Debug\youtubeotobus.csproj.GenerateResource.cache
+C:\Users\bensu\source\repos\youtubeotobus\youtubeotobus\obj\Debug\youtubeotobus.csproj.CoreCompileInputs.cache
+C:\Users\bensu\source\repos\youtubeotobus\youtubeotobus\obj\Debug\youtubeotobus.exe
+C:\Users\bensu\source\repos\youtubeotobus\youtubeotobus\obj\Debug\youtubeotobus.pdb
